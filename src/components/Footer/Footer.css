@@ -1,0 +1,43 @@
+footer {
+  width: 100%;
+
+  color: #777;
+  font-size: 12px;
+  text-align: center;
+  
+  bottom: 0;
+  margin-top: 20px;
+  position: relative;
+}
+
+.footer {
+  flex-wrap: wrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 10px 0;
+}
+
+.footer-line {
+  margin-bottom: 8px;
+  width: 90%;
+  height: 2px;
+  background-color: #fff;
+}
+
+.footer-data {
+  color: white;
+  display: flex;
+  justify-content: space-between;
+  width: 90%;
+  height: 60px;
+}
+
+span {
+  color: #fff !important;
+}
+
+a {
+  margin-left: 6px;
+  color: white;
+}

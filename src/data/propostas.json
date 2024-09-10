@@ -1,0 +1,142 @@
+[
+  {
+    "id": "123456789",
+    "title": "Squad Gerenciada",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc felis dolor, varius eu fermentum sed, cursus ac felis. Aenean feugiat est sed egestas porta...",
+    "grossRevenue": 1545600,
+    "netRevenue": 1371720,
+    "totalCost": 1059150,
+    "molPercentage": 33.2,
+    "molTotalBRL": 312570,
+    "manager": {
+      "name": "Marcelo Bispo",
+      "title": "Diretor Comercial no Banco Inter",
+      "location": "Barueri, SP (híbrido)",
+      "skills": [
+        "Delivery Manager",
+        "Arquiteto de Soluções",
+        "Squad Leader",
+        "Tech Leader Desenvolvimento",
+        "Designer UX/UI",
+        "Frontend Angular",
+        "Backend Java",
+        "QA Automatizado"
+      ]
+    },
+    "startDate": "22/05/2024",
+    "endDate": "22/05/2025",
+    "durationMonths": 12
+  },
+  {
+    "id": "123456789",
+    "title": "Squad Gerenciada",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc felis dolor, varius eu fermentum sed, cursus ac felis. Aenean feugiat est sed egestas porta...",
+    "grossRevenue": 1545600,
+    "netRevenue": 1371720,
+    "totalCost": 1059150,
+    "molPercentage": 33.2,
+    "molTotalBRL": 312570,
+    "manager": {
+      "name": "Marcelo Bispo",
+      "title": "Diretor Comercial no Banco Inter",
+      "location": "Barueri, SP (híbrido)",
+      "skills": [
+        "Delivery Manager",
+        "Arquiteto de Soluções",
+        "Squad Leader",
+        "Tech Leader Desenvolvimento",
+        "Designer UX/UI",
+        "Frontend Angular",
+        "Backend Java",
+        "QA Automatizado"
+      ]
+    },
+    "startDate": "22/05/2024",
+    "endDate": "22/05/2025",
+    "durationMonths": 12
+  },
+  {
+    "id": "123456789",
+    "title": "Squad Gerenciada",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc felis dolor, varius eu fermentum sed, cursus ac felis. Aenean feugiat est sed egestas porta...",
+    "grossRevenue": 1545600,
+    "netRevenue": 1371720,
+    "totalCost": 1059150,
+    "molPercentage": 33.2,
+    "molTotalBRL": 312570,
+    "manager": {
+      "name": "Marcelo Bispo",
+      "title": "Diretor Comercial no Banco Inter",
+      "location": "Barueri, SP (híbrido)",
+      "skills": [
+        "Delivery Manager",
+        "Arquiteto de Soluções",
+        "Squad Leader",
+        "Tech Leader Desenvolvimento",
+        "Designer UX/UI",
+        "Frontend Angular",
+        "Backend Java",
+        "QA Automatizado"
+      ]
+    },
+    "startDate": "22/05/2024",
+    "endDate": "22/05/2025",
+    "durationMonths": 12
+  },
+  {
+    "id": "123456789",
+    "title": "Squad Gerenciada",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc felis dolor, varius eu fermentum sed, cursus ac felis. Aenean feugiat est sed egestas porta...",
+    "grossRevenue": 1545600,
+    "netRevenue": 1371720,
+    "totalCost": 1059150,
+    "molPercentage": 33.2,
+    "molTotalBRL": 312570,
+    "manager": {
+      "name": "Marcelo Bispo",
+      "title": "Diretor Comercial no Banco Inter",
+      "location": "Barueri, SP (híbrido)",
+      "skills": [
+        "Delivery Manager",
+        "Arquiteto de Soluções",
+        "Squad Leader",
+        "Tech Leader Desenvolvimento",
+        "Designer UX/UI",
+        "Frontend Angular",
+        "Backend Java",
+        "QA Automatizado"
+      ]
+    },
+    "startDate": "22/05/2024",
+    "endDate": "22/05/2025",
+    "durationMonths": 12
+  },
+  {
+    "id": "123456789",
+    "title": "Squad Gerenciada",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc felis dolor, varius eu fermentum sed, cursus ac felis. Aenean feugiat est sed egestas porta...",
+    "grossRevenue": 1545600,
+    "netRevenue": 1371720,
+    "totalCost": 1059150,
+    "molPercentage": 33.2,
+    "molTotalBRL": 312570,
+    "manager": {
+      "name": "Marcelo Bispo",
+      "title": "Diretor Comercial no Banco Inter",
+      "location": "Barueri, SP (híbrido)",
+      "skills": [
+        "Delivery Manager",
+        "Arquiteto de Soluções",
+        "Squad Leader",
+        "Tech Leader Desenvolvimento",
+        "Designer UX/UI",
+        "Frontend Angular",
+        "Backend Java",
+        "QA Automatizado"
+      ]
+    },
+    "startDate": "22/05/2024",
+    "endDate": "22/05/2025",
+    "durationMonths": 12
+  }
+]

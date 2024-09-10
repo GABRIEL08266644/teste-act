@@ -1,0 +1,83 @@
+.criar-proposta-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  height: 100%;
+  padding: 20px;
+  box-sizing: border-box;
+}
+
+.left-section {
+  flex: 1.5;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.middle-section {
+  flex: 3;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.proposal-form label {
+  display: block;
+  margin-bottom: 10px;
+}
+
+.proposal-form input,
+.proposal-form textarea {
+  width: 100%;
+  padding: 10px;
+  margin-top: 5px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+.right-section {
+  flex: 1;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.criar-proposta-container .button-group {
+  display: flex;
+  flex-direction: column;
+  padding: 10px;
+  align-items: flex-end !important;
+}
+
+.criar-proposta-container .button-group button {
+  min-width: 86px;
+  max-width: 104px;
+  height: 36px !important;
+  padding: 8px !important;
+  background-color: #047FB2;
+  color: white;
+  border: none;
+  border-radius: 8px !important;
+  cursor: pointer;
+  transition: background-color 0.3s;
+  display: flex;
+  align-items: center;
+  justify-content: right;
+  margin: 6px;
+}
+
+.criar-proposta-container .button-group button.button-sm {
+  width: 86px !important;;
+}
+
+.criar-proposta-container .button-group button img {
+  width: 15px;
+  height: 17px;
+  margin-right: 10px;
+
+}
+
+.criar-proposta-container .button-group button:hover {
+  background-color: #0056b3;
+}
